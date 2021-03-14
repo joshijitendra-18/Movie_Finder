@@ -1,1 +1,1 @@
-# Movie_Finder: this is movir finder
+# Movie_Finder
